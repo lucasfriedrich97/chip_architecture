@@ -1,0 +1,25 @@
+Segue uma breve discrição dos arquivos contidos neste diretório.
+
+
+001 -> dados gerados quando a parametrização U foi gerada de forma aleatória e o observavel usado foi O = |0><0| atuando no ultimo qubit
+
+002 -> dados gerados quando a parametrização U foi gerada de forma aleatória e o observavel usado foi O = SIGMA_{Z} atuando no ultimo qubit
+
+003 -> dados gerados quando a parametrização U foi fixada e nenhuma restrição da arquitetura foi usado o observavel usado foi O = SIGMA_{Z} atuando no ultimo qubit
+
+004 -> dados gerados quando a parametrização U foi fixada e foi usado a restrição da arquitetura  o observavel usado foi O = SIGMA_{Z} atuando no ultimo qubit
+
+005 -> dados gerados quando a parametrização U foi fixada e nenhuma restrição da arquitetura foi usado o observavel usado foi O = |0><0| atuando no ultimo qubit
+
+006 -> dados gerados quando a parametrização U foi fixada e foi usado a restrição da arquitetura  o observavel usado foi O = |0><0| atuando no ultimo qubit
+
+figuras - contem as figuras usadas no artigo 
+
+main.py -> codigo usado para obter os dados contidos em 001 e 002
+
+main2.py -> codigo usado para obter os dados contidos em 003, 004, 005 e 006
+
+plot2.py - codigo usado para gerar os graficos contidos em figuras
+
+data.pdf -> dados usados para o treinamento e teste
+

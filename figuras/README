@@ -1,0 +1,9 @@
+Nesta parta esta as figuras que serão usadas para anlisar os resultados teoricos para o artigo ser publicado na revista quantum information proce..
+
+No arquivo figuras esta as figuras para o artigo
+No arquivo 001 esta o comportamento da função custo quando U é gerado aleatoriamente e o observavel é O = |0><0| atuando no ultimo qubit
+
+No arquivo 002 esta o comportamento da função custo quando U é gerado aleatoriamente e o observavel é O = PauliZ atuando no ultimo qubit
+
+No arquivo 003 comparativo do comportamento da função custo quando U é fixo, isto é, é usado somente uma parametrização, com U sendo livre e não livre
+de restrição neste caso o observavel usado foi  O = PauliZ atuando no ultimo qubit
